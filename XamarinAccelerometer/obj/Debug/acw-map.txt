@@ -1,0 +1,4 @@
+XamarinAccelerometer.MainActivity, XamarinAccelerometer;md5297dbcb231009b18b87ea89e5bd98f86.MainActivity
+XamarinAccelerometer.MainActivity, XamarinAccelerometer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5297dbcb231009b18b87ea89e5bd98f86.MainActivity
+XamarinAccelerometer.MainActivity;md5297dbcb231009b18b87ea89e5bd98f86.MainActivity
+xamarinaccelerometer.MainActivity;md5297dbcb231009b18b87ea89e5bd98f86.MainActivity
